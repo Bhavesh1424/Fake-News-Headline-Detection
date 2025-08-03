@@ -26,14 +26,15 @@ The app uses a CSV file (`shuffled_combined_news.csv`) containing labeled headli
 - `label`: 1 for Real, 0 for Fake
 
 🔮 Future Enhancements
-BERT/Transformer-based deep learning models
-Multilingual support
-Multimedia (image/video) fake detection
-Web/mobile deployment
-Real-time news stream classification
+- BERT/Transformer-based deep learning models
+- Multilingual support
+- Multimedia (image/video) fake detection
+- Web/mobile deployment
+- Real-time news stream classification
 
 ✨ Acknowledgements
-Scikit-learn for ML tools
-WordCloud and Matplotlib for visualization
-Tkinter for the GUI framework
+- Scikit-learn for ML tools
+- WordCloud and Matplotlib for visualization
+- Tkinter for the GUI framework
+
 
